@@ -2,3 +2,9 @@
 *.txt
 __pycache__
 .ipynb_checkpoints
+.snakemake
+mfa
+
+*.wav
+*.TextGrid
+*.done
